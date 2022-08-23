@@ -1,0 +1,1 @@
+No se pudo terminar completamente el test pero se agrego la carga de imagenes con django rest framework, el manejador de colas usando redis y celery, se agregaron los metodos para operar imagenes y otros.
